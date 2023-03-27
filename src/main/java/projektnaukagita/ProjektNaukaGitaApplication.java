@@ -14,11 +14,10 @@ public class ProjektNaukaGitaApplication {
 dasd
 
                 dfsdfsd
-                cxzxc
                 fff
                 sds
                 dfsdfds
-
+dsads
 
                  fdsfdsf
 
